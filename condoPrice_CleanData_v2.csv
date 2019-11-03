@@ -1,4 +1,4 @@
-id,floor,total_floor,Jatujak,Bangna,Ramintra,Samrong,Laksi,PhayaThai,Sukhumvit42,PhasiCharoen,Thonburi,SamutprakarnCity,BangkokYai,Bangkhae,RamaII,JatujakII,Bangkhen,Suanluang,roomsize,distancetobts,fitness,pool,distancetomall,distancetoexpressway,guard,cctv,keycard,facerecognition,monthlymaintenance_fee,bedroom,restroom,Land_appraisal,construction_year, room_price
+id,floor,total_floor,Jatujak,Bangna,Ramintra,Samrong,Laksi,PhayaThai,Sukhumvit42,PhasiCharoen,Thonburi,SamutprakarnCity,BangkokYai,Bangkhae,RamaII,JatujakII,Bangkhen,Suanluang,roomsize,distancetobts,fitness,pool,distancetomall,distancetoexpressway,guard,cctv,keycard,facerecognition,monthlymaintenance_fee,bedroom,restroom,Land_appraisal,construction_year,room_price
 Condo01,5,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,2.8,1,0,2.5,15,1,1,1,0,1000,1,1,79090,2556,"1,500,000"
 Condo02,6,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0.8,1,1,4,1,1,1,1,0,1200,1,1,111000,2559,"2,400,000"
 Condo03,5,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,43,10,1,1,15,4,1,1,1,0,1200,1,1,120000,2561,"3,000,000"
